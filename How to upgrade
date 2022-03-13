@@ -1,12 +1,15 @@
-## Welcome to GitHub Pages
+## Upgrade to the newest Python version
 
-You can use the [editor on GitHub](https://github.com/MercedesHachmann/UpgradeGuide/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to this upgrade guide! Due to safety concerns it is important to update the python version you are using on your computer every year - which is easy to do and just takes as long as sipping another coffe :coffee: so please go ahead and do this right away :wink:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+There are two steps:
+- Upgrading Python itself
+- upgrading packages
 
-### Markdown
+### Upgrading Python :snake:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To get the newest version go to the following page and select "Latest Python 3 Release"
+[Link](https://www.python.org/downloads/windows/)
 
 ```markdown
 Syntax highlighted code block
